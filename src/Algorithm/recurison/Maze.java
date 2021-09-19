@@ -1,4 +1,4 @@
-package Algorithm.Recurison;
+package Algorithm.recurison;
 
 public class Maze {
 
